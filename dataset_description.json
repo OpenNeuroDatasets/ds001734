@@ -1,8 +1,12 @@
 {
-  "BIDSVersion": "1.0.1",
-  "Name": "NARPS",
-  "Authors": [
-    "Rotem Botvinik-Nezer, Roni Iwanir, Russell A. Poldrack, Tom Schonberg"
-  ],
-  "HowToAcknowledge": ""
+    "id": "HEAD",
+    "BIDSVersion": "1.0.1",
+    "Name": "NARPS",
+    "Authors": [
+        "Rotem Botvinik-Nezer, Roni Iwanir, Russell A. Poldrack, Tom Schonberg"
+    ],
+    "HowToAcknowledge": "",
+    "Funding": [
+        "Data collection, performed at Tel Aviv University, was supported by the Austrian Science Fund (P29362-G27), the Israel Science Foundation (ISF) and the Swedish Foundation for Humanities and Social Sciences (NHS14-1719:1). "
+    ]
 }
