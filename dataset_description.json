@@ -1,5 +1,4 @@
 {
-    "id": "HEAD",
     "BIDSVersion": "1.0.1",
     "Name": "NARPS",
     "Authors": [
@@ -16,6 +15,6 @@
         "https://narps.info"
     ],
     "Acknowledgements": "NARPS team: Rotem Botvinik-Nezer, Roni Iwanir, Felix Holzmeister, Jürgen Huber, Magnus Johannesson, Michael Kirchler, Anna Dreber, Colin F. Camerer, Russell A.Poldrack and Tom Schonberg.\nThanks to Chris Gorgolewski, Jeanette Mumford and Joke Durnez for assistance in design and execution of the study.",
-    "DatasetDOI": "10.18112/openneuro.ds001734.v1.0.3",
+    "DatasetDOI": "10.18112/openneuro.ds001734.v1.0.4",
     "License": "CC0"
 }
